@@ -2,7 +2,7 @@
 
 本作品是对于上海交通大学MATH2501常微分方程的计算机辅助证明。
 
-Formal proof of MATH2501 *Ordinal Differntial Equations* cource at Shanghai Jiao Tong University.
+Formal proof of MATH2501 *Ordinary Differntial Equations* cource at Shanghai Jiao Tong University.
 
 ## 课程信息 Cource Information
 
