@@ -1,0 +1,1 @@
+notation "ℤ" => Int
